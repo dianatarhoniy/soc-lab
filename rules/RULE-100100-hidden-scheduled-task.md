@@ -1,4 +1,4 @@
-# RULE-100100: RULE-100100: Hidden PowerShell in a scheduled task
+# RULE-100100: Hidden PowerShell in a scheduled task
 
 | Field | Value |
 | --- | --- |
